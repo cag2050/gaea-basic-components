@@ -1,5 +1,5 @@
 # Install
 
 ```bash
-npm install gaea-basic-components
+npm install gaea-basic-components-cag
 ```
